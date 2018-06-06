@@ -1,6 +1,4 @@
 # RajniBot_SlackBot
-This Bot interacts with users and tell them funny Rajnikanth jokes!!!!!
-<p align="center">
-  <img src="image.png"/>
+This Bot interacts with users and tell them funny **Sir Rajnikanth** jokes!!!!!
+<img src="image.png"/>
   
-</p>
